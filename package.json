@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-improve-code",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "created in order to add rule: when arrow func one line breaks, convert it to return style",
   "keywords": [
     "eslint",
