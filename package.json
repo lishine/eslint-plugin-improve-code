@@ -17,9 +17,6 @@
     "test": "echo OK"
   },
   "dependencies": {
-    "escape-string-regexp": "^5.0.0",
-    "espree": "^9.3.1",
-    "esutils": "^2.0.3",
     "requireindex": "^1.2.0"
   },
   "devDependencies": {
